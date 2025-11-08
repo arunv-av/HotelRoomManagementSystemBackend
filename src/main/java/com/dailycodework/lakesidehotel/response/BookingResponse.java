@@ -6,9 +6,7 @@ import lombok.NoArgsConstructor;
 
 import java.time.LocalDate;
 
-/**
- * @author Simpson Alfred
- */
+
 // same entities as in BookedRoom class...
 @Data
 @AllArgsConstructor

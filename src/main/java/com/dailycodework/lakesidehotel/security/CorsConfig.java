@@ -12,9 +12,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 import java.util.Arrays;
 
-/**
- * @author Simpson Alfred
- */
+
 
 @Configuration
 @EnableWebMvc

@@ -18,9 +18,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 import java.io.IOException;
 
-/**
- * @author Simpson Alfred
- */
+
 
 public class AuthTokenFilter extends OncePerRequestFilter {
 

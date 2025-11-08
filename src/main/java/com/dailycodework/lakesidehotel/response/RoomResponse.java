@@ -8,9 +8,7 @@ import org.apache.tomcat.util.codec.binary.Base64;
 import java.math.BigDecimal;
 import java.util.List;
 
-/**
- * @author Simpson Alfred
- */
+
 
 // It is a data transfer object
 // we will send response to the users
